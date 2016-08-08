@@ -41,6 +41,7 @@ self.addEventListener('install', function(event) {
 				'/images/prog-beer.svg',
 				'/images/qrcode.svg',
 				'/images/reacthn.svg',
+				'/images/riorun.svg',
 				'/images/selio.svg',
 				'/images/session.svg',
 				'/images/smaller-pictures.svg',
